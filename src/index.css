@@ -1,0 +1,28 @@
+body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .app.light {
+      background-color: #ffffff;
+      color: #000000;
+    }
+
+    .app.dark {
+      background-color: #000000;
+      color: #ffffff;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
